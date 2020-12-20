@@ -1,7 +1,7 @@
-# resources
+# array-bioinformatics
 
-PF Sullivan & Jie Song
-12/2020
+Patrick Sullivan (pfs9999@gmail.com) & Jie Song (jie.song@ki.se) 12/2020
+
 
 Aim: processing Illumina GSA v1/2/3 manifest files
 - map probe sequences using bowtie (required exactly one perfect match)
